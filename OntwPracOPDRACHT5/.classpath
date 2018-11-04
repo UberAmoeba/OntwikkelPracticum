@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Rob/Documents/Discipline en effectiviteit/Studie/Propedeuse/Ontwikkelpracticum/Installatie/mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rob/Documents/Discipline en effectiviteit/Studie/Propedeuse/Ontwikkelpracticum/Installatie/jaybird-full-2.1.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
